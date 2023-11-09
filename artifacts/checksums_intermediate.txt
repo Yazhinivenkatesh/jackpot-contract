@@ -1,0 +1,1 @@
+78a50399ec3cb426f805482e6340374560a5de421f3cc7fcc71640aef4fdcac1  /target/wasm32-unknown-unknown/release/jackpot.wasm
